@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nicolás Vásquez
 - :male_detective: I work as Data Analyst winning everyday with web analytics	
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning a lot of data stuff
-- 💞️ I’m looking to collaborate on health related NGO 
+- 🌱 I’m currently learning lots of data stuff
+- 💞️ I’m looking to collaborate on health related NGOs
 - 📫 You can reach me anytime ! nicolas.varob@gmail.com
 
 <!---
